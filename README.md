@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selva</h1>
-<h3 align="center">A passionate Backend developer from India. Having deep knowledge about Full stack development and Dats structures & Algorithms</h3>
+<h3 align="center">A passionate Backend developer from India. Having deep knowledge about Full stack development and Data structures & Algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selva2000&label=Profile%20views&color=0e75b6&style=flat" alt="selva2000" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/selva2000vikram" target="blank"><img src="https://img.shields.io/twitter/follow/selva2000vikram?logo=twitter&style=for-the-badge" alt="selva2000vikram" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, React.js**
+- I’m currently learning **Node.js, React.js, Machine Learning**
 
-- 💬 Ask me about **Node.js, Javascript, C++**
+- Ask me about **Node.js, Javascript, C++**
 
-- 📫 How to reach me **drtselva2000@gmail.com**
+- How to reach me **drtselva2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
