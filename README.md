@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selva</h1>
-<h3 align="center">A passionate Backend developer from India. Having deep knowledge about Full stack development and Data structures & Algorithms</h3>
+<h3 align="center">A passionate Backend developer from India. Having deep knowledge about Full stack development and Data structures & Algorithms, Machine Learning and much more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selva2000&label=Profile%20views&color=0e75b6&style=flat" alt="selva2000" /> </p>
 
